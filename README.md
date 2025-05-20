@@ -34,9 +34,4 @@ A solo astronomy–data science project using ESA’s **Gaia DR3** data to map a
 
 ---
 
-## 🚀 Getting Started
-
-
-   git clone https://github.com/yourusername/milky-way-explorer.git
-   cd milky-way-explorer
 
